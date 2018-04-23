@@ -1,0 +1,29 @@
+{
+	"pokemon": [
+		{
+			"id": 151,
+			"name": "mew",
+			"moves": [
+				"move1"
+			],
+			"stats": {
+				"hp": 110,
+				"att": 12,
+				"def": 12
+			}
+		},
+		{
+			"id": 152,
+			"name": "mewtwo",
+			"moves": [
+				"move1"
+			],
+			"stats": {
+				"hp": 110,
+				"att": 12,
+				"def": 12
+			}
+		}
+
+	]
+}
